@@ -1,0 +1,17 @@
+{
+  "name": "fanfou-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hmacsha1": "^1.0.0",
+    "oauth-1.0a": "^2.1.1",
+    "qs": "^6.4.0",
+    "superagent": "^3.5.2"
+  }
+}
