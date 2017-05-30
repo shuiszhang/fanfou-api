@@ -3,6 +3,8 @@
 ## install
 * npm i fanfou-api --save
 ## usage
-* see test.js
+* use callback
+* use async/await
+* see test.js for help
 ## fanfou api doc
 * https://github.com/FanfouAPI/FanFouAPIDoc/wiki
