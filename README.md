@@ -5,8 +5,7 @@
 * npm i fanfou-api --save
 
 ## usage
-* use callback
-* use async/await
+* support both callback and async/await
 * see test.js for help
 
 ## fanfou api doc
